@@ -1,0 +1,17 @@
+{
+  "name": "node-module-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test/test.js"
+  },
+  "author": "James Gosnell",
+  "license": "ISC",
+  "dependencies": {
+    "c-tokenizer": "0.0.0"
+  },
+  "devDependencies": {
+    "tap": "^0.4.13"
+  }
+}
